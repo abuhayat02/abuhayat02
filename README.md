@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://i.ibb.co.com/9kwvTFrP/Yellow-and-Blue-Geometric-Digital-Marketing-Expert-Linked-In-Article-Cover-Image-1.png"  />
+  <img height="200" src="https://i.ibb.co.com/9kwvTFrP/Yellow-and-Blue-Geometric-Digital-Marketing-Expert-Linked-In-Article-Cover-Image-1.png"  />
 </div>
 
 ###
