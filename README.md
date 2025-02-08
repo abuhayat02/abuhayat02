@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Email : abuhayatt4mmm@gmaio.com<br>location : kishoreganj , dhaka</p>
+<p align="left">Email : abuhayat4mmm@gmail.com<br>location : kishoreganj , dhaka</p>
 
 ###
 
@@ -35,6 +35,16 @@
 ###
 
 <p align="left">✅ I am building a portfolio website using React.js and Tailwind CSS.  <br>✅ I am working with Firebase Authentication and MongoDB.  <br>✅ I am implementing the ‘Add to Cart’ feature using Context API.  <br>✅ I am experimenting with a voice-controlled website.  <br>✅ I am enhancing my GitHub profile to make it more professional.</p>
+
+###
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=abuhayat02&theme=react&show_icons=true&hide_border=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhayat02&theme=react&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhayat02&theme=react&hide_border=true&layout=compact" />
+</p>
+###
 
 ###
 
