@@ -1,101 +1,32 @@
-<div align="center"> <img height="200" src="https://i.ibb.co.com/9kwvTFrP/Yellow-and-Blue-Geometric-Digital-Marketing-Expert-Linked-In-Article-Cover-Image-1.png" /> </div>
-
-<h1 align="center">Hi 👋, I'm Hayat<br>MERN Stack Developer | TypeScript Enthusiast</h1>
-
-<p align="center">
-💻 Building modern web applications | 🌐 Exploring Next.js & Firebase | 🎯 Focused on scalability & user experience
-</p>
-
----
-
-### 📫 Contact
-- Email: abuhayat4mmm@gmail.com  
-- Location: Dhaka, Bangladesh  
-- Portfolio: [hayat20.surge.sh](https://hayat20.surge.sh)  
-- GitHub: [github.com/abuhayat02](https://github.com/abuhayat02)
-
----
-
-### 👨‍💻 About Me
-Hi, I'm Hayat – a passionate web developer specializing in **React.js, Next.js, Tailwind CSS, TypeScript, and Firebase**.  
-I love building **modern, scalable, and user-friendly applications**.  
-💡 Always eager to learn new technologies and solve complex problems.  
-🌟 Currently working on **BoostNest**, **gyanFlow**, and a **voice-controlled web application**.
-
----
-
-### ⚡ Current Activities
-- ✅ Building a **portfolio website** with React.js and Tailwind CSS  
-- ✅ Working with **Firebase Authentication**, **NextAuth**, and **MongoDB**  
-- ✅ Exploring new technology 
-- ✅ Experimenting with a **Ai Powered Website *  
-- ✅ Enhancing my **GitHub profile** to make it more professional  
-- ✅ Working on **BoostNest** and **gyanFlow** full-stack projects with my team. 
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abuhayat02&theme=react&show_icons=true&hide_border=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhayat02&theme=react&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhayat02&theme=react&hide_border=true&layout=compact" />
-</p>
-
----
-
-### 🛠 Skills
-
-**Frontend:**  
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" />
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/9kwvTFrP/Yellow-and-Blue-Geometric-Digital-Marketing-Expert-Linked-In-Article-Cover-Image-1.png"  />
 </div>
 
-**Backend:**  
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
-</div>
+###
 
-**Tools & Others:**  
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
-</div>
+<br clear="both">
 
----
+<h1 align="center">Hi 👋! I am Hayat,<br>MERN stack Developer</h1>
 
-### 🚀 Projects
+###
 
-**BoostNest – YouTube Services Platform**  
-- Full-stack TypeScript project using **Next.js, Redux, NextAuth, MongoDB, and Tailwind CSS**  
-- Automates YouTube service management, user authentication, and analytics  
-- Live/Demo: https://hello-users.vercel.app/
-**gyanFlow – Learning Management Platform**  
-- Full-stack educational platform with **React.js, Redux Toolkit Query, Node.js, Express.js, MongoDB, Firebase**  
-- Features role-based access, JWT/Firebase auth, real-time dashboards, and course management  
-- Live/Demo: https://gyanflow-ca428.web.app/
+<h3 align="center">👋 Welcome to My GitHub Profile!</h3>
 
----
+###
 
-### 💡 Soft Skills
-- Problem Solving  
-- Team Collaboration  
-- Time Management  
-- Continuous Learning  
+<p align="left">Contact :</p>
 
+###
+
+<p align="left">Email : abuhayat4mmm@gmail.com<br>location : Dhaka,  Bangladesh </p>
+
+###
+
+<h1 align="center">About ME</h1>
+
+###
+
+<p align="center">Hi, I'm Hayat – a passionate web developer specializing in React, Tailwind CSS, and Firebase. <br> <br> I love building modern, scalable, and user-friendly web applications.  <br>💡 Always eager to learn new technologies and improve my problem-solving skills.  <br>💙 Currently working on innovative projects that blend creativity with functionality.  <br>🌟 My goal is to create meaningful digital experiences while constantly evolving as a developer.</p>
 
 ###
 
@@ -153,6 +84,11 @@ I love building **modern, scalable, and user-friendly applications**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
 
-<p align="left"></p>
+###
+
+<h2 align="left">Tools</h2>
 
 ###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
