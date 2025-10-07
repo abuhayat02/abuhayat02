@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co/9kwvTFrP/Yellow-and-Blue-Geometric-Digital-Marketing-Expert-Linked-In-Article-Cover-Image-1.png" />
-</div>
+<div align="center"> <img height="200" src="https://i.ibb.co.com/9kwvTFrP/Yellow-and-Blue-Geometric-Digital-Marketing-Expert-Linked-In-Article-Cover-Image-1.png" /> </div>
 
 <h1 align="center">Hi 👋, I'm Hayat<br>MERN Stack Developer | TypeScript Enthusiast</h1>
 
@@ -29,10 +27,10 @@ I love building **modern, scalable, and user-friendly applications**.
 ### ⚡ Current Activities
 - ✅ Building a **portfolio website** with React.js and Tailwind CSS  
 - ✅ Working with **Firebase Authentication**, **NextAuth**, and **MongoDB**  
-- ✅ Implementing **Add to Cart** feature using **Context API**  
-- ✅ Experimenting with a **voice-controlled website**  
+- ✅ Exploring new technology 
+- ✅ Experimenting with a **Ai Powered Website *  
 - ✅ Enhancing my **GitHub profile** to make it more professional  
-- ✅ Working on **BoostNest** and **gyanFlow** full-stack projects
+- ✅ Working on **BoostNest** and **gyanFlow** full-stack projects with my team. 
 
 ---
 
@@ -154,24 +152,6 @@ I love building **modern, scalable, and user-friendly applications**.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
-
-###
-
-<h2 align="left">Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
 
 <p align="left"></p>
 
